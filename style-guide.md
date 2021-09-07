@@ -26,8 +26,6 @@ The designs were created to the following widths:
 
 - Font size (paragraph): 16px
 
-lol
-
 ### Font
 
 - Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
